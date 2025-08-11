@@ -1,5 +1,5 @@
 **Role of the tutors:** Organisation and surveillance of Exams
-**Retribution:** Logtime and Wallet points
+**Retribution:** Logtime and Wallet points (and free coffee before the exam at the bocal)
 
 ## General rules for any exam
 

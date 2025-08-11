@@ -9,3 +9,7 @@ They are also kind of "*spokespersons*" of the tutors for the bocal. If you have
 ### You want to become a Supervising Tutor?
 
 It's as easy as contacting a Supervising Tutor. Together we will plan a time to talk with you and see what your goal is and why.
+
+### Current Supervising Tutors
+
+The current supervising tutors are: afocant, ade-woel, alexphil, slangero, vilibert and jgoudema.

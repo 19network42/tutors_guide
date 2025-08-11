@@ -28,7 +28,7 @@ Only Bocal exams will be guaranteed.
 
 On top of the "Bocal exams", tutors can organize exams at their time and hour convenience.
 
-NB: At the moment, 1 exam is guaranteed the first Thursday (week) of the month, and 1 optional the last Thursday (week) of the month, so 2 max per month.
+NB: At the moment, 1 exam is guaranteed the first Thursday (week) of the month, and 1 optional the third Thursday (week) of the month, so 2 max per month.
 
 ## Exam attendance
 

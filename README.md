@@ -5,4 +5,3 @@ To add a new section in the charter, you can do a pull request on the github. On
 The title of the file will be the title of the section. **Do not** add spaces in the name but write underscores instead (e.g.: She_Loves_To_Code).
 
 Please only add .md files. Other files will not be added. 
-

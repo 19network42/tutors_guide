@@ -53,3 +53,4 @@ Here are the prerequisites:
 The rules are the same for the tutors exam.
 
 **Supervising tutors can decide to cancel an exam if not enough tutors are available.**
+ 

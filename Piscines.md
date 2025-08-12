@@ -8,7 +8,7 @@ Tutors during Piscine, when they want, can:
 - Help pisciners for **starting the piscine** and only for that
 - Notify the bocal when you think something is wrong
 
-Yes, the list is short, but it is normal, as a tutor, we are not supposed to interfere too much in the piscine.
+Yes, the list is short, but it is normal, as a tutor, we are not supposed to interfere too much in the piscine. 
 
 NB: Pisciners can't use the BeCentral, nor the ping pong table.
 

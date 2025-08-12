@@ -46,7 +46,7 @@ Some examples of possible things:
 - Debugging sessions
 
 Be aware that if not enough people are available for your event (or any event, including exams), the event will be canceled.
-
+ 
 ### As a tutor, what to do if...
 
 ### You want to become a Supervising Tutor?

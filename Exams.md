@@ -5,6 +5,8 @@
 ## General rules for any exam
 
 - We welcome the exam participants **20 min** before the exam begins.
+- When an exam is on the intranet, tutors cannot unregister from their shift if the waiting list is empty.
+- If you want to unregister from an exam with an empty waiting list, find your successor and contact a supervising tutor.
 - Exam participants can enter the cluster with only their access badge, a closed bottle of water (water only), a pen, and virgin sheets of paper (3 max). Nothing in their pockets.
 - **No food** allowed (except for the final piscine exam)
 - No connected devices are allowed, even turned OFF
@@ -28,6 +30,7 @@ Only Bocal exams will be guaranteed.
 ### Tutor exams
 
 On top of the "Bocal exams", tutors can organize exams at their time and hour convenience.
+Exam are only posted on intranet when minimum tutors requirement are reached. After that tutors can't unsubscribe if waiting list is empty.
 
 NB: At the moment, 1 exam is guaranteed the first Thursday (week) of the month, and 1 optional the third Thursday (week) of the month, so 2 max per month.
 

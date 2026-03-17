@@ -4,18 +4,22 @@
 
 ## General rules for any exam
 
-- We welcome the exam participants **20 min** before the exam begins.
+**For you, as a tutor**
+- Clusters have to be checked before the exam, and we welcome the participants **20 min** before the exam begins. So be there on time.
 - When an exam is on the intranet, tutors cannot unregister from their shift if the waiting list is empty.
 - If you want to unregister from an exam with an empty waiting list, find your successor and contact a supervising tutor.
+ 
+ **For student who pass the exam**
 - Exam participants can enter the cluster with only their access badge, a closed bottle of water (water only), a pen, and virgin sheets of paper (3 max). Nothing in their pockets.
-- **No food** allowed (except for the final piscine exam)
-- No connected devices are allowed, even turned OFF
-- All other items, bags, and personal stuff have to remain outside of the clusters, on the side of the main hall
-- Exam participants can't choose their seat. Tutors address them to seats
-- In the clusters, **NO TALK** is allowed. Tutors can make a gentle reminder of this rule; after it, any talking exam participant needs to be asked to leave the room
-- Bottles must remain on the floor
-- For any question, exam participants need to STAND UP
-- PLEASE OPEN THE WINDOWS
+- Everyone has to stay at least 1 hour (except if they succeed the exam). Phoenix Users need to stay at least 2 hours and 42 minutes. You can repeat this rule at the beginning of every exam.
+- **No food** allowed (except for the final piscine exam).
+- No connected devices are allowed, even turned OFF.
+- All other items, bags, and personal stuff have to remain outside of the clusters, on the side of the main hall.
+- Exam participants can't choose their seat. Tutors address them to seats.
+- In the clusters, **NO TALK** is allowed. Tutors can make a gentle reminder of this rule; after it, any talking exam participant needs to be asked to leave the room.
+- Bottles must remain on the floor.
+- For any question, exam participants need to STAND UP.
+- PLEASE OPEN THE WINDOWS.
 
 ## Bocal and Tutors exams
 

@@ -5,11 +5,13 @@
 ## General rules for any exam
 
 **For you, as a tutor**
+
 - Clusters have to be checked before the exam, and we welcome the participants **20 min** before the exam begins. So be there on time.
 - When an exam is on the intranet, tutors cannot unregister from their shift if the waiting list is empty.
 - If you want to unregister from an exam with an empty waiting list, find your successor and contact a supervising tutor.
  
  **For student who pass the exam**
+ 
 - Exam participants can enter the cluster with only their access badge, a closed bottle of water (water only), a pen, and virgin sheets of paper (3 max). Nothing in their pockets.
 - Everyone has to stay at least 1 hour (except if they succeed the exam). Phoenix Users need to stay at least 2 hours and 42 minutes. You can repeat this rule at the beginning of every exam.
 - **No food** allowed (except for the final piscine exam).

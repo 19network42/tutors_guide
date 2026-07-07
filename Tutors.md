@@ -157,7 +157,7 @@ A discussion will be organised to:
 - Discuss your goals
 - Explain the responsibilities
 - Ensure good coordination and understanding within the supervising tutors team
-## I want to leave the Tutors?
+## I Want to Leave the Tutors?
 You are free to leave whenever you want.
 Usually, leaving the tutor system simply means:
 - Leaving the tutor communication channels

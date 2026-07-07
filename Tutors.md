@@ -1,5 +1,3 @@
-*Last update: 06 July 2026*
-
 # Tutors Charter
 
 *This charter is not meant to create pressure, but to provide a common framework and expectations for everyone.*

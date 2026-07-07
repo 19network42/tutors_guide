@@ -133,22 +133,7 @@ Tutors who watch an exam receive:
 A Fast Pass is given to tutors after watching a student exam. A fast pass is the benefit of having priority to subscribe to an exam.
 - Fast passes are only valid for the next two exam dates (in the student main campus)
 - Fast passes are not given for piscine exams surveillance
-## What’s the Difference Between Tutors and Supervising Tutors?
-Supervising Tutors are simply tutors who:
-- Coordinate the organisation
-- Ensure things run smoothly
-- Relay information
-- Help solve problems
-- Act as contact points between tutors and the bocal
-They can endorse the role of spokespersons for the tutors.
-Don’t hesitate to contact them if you have:
-- Suggestions
-- Ideas
-- Problems
-- Projects
-- Questions
 
-Of course, this does not prevent anyone from speaking directly with the bocal when needed.
 ## As a Tutor, What to Do If…
 ### I Want to Become a Supervising Tutor?
 Contact a Supervising Tutor.

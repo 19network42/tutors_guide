@@ -129,7 +129,7 @@ Tutors must not:
 - Help cheating directly or indirectly
 - Wear headphones or earphones on both ears
 
-At least two tutors must remain in the cluster during exams. One supervising tutor should ALWAYS be supervising an exam session.
+At least two tutors must remain in the cluster during exams. One supervising tutor should always be supervising an exam session.
 
 If suspicious behavior occurs:
 

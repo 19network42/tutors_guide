@@ -22,7 +22,7 @@ Tutors have their own website that you can consult and where you can apply: [tut
 
 ## What is the Purpose of Tutoring?
 
-The main goals of tutors is to:
+The main goals of tutors are to:
 
 - Encourage student involvement
 - Strengthen peer-to-peer learning

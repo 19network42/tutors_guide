@@ -19,10 +19,3 @@ Don't hesitate to contact them if you have:
 - Questions
 
 Of course, this does not prevent anyone from speaking directly with the bocal when needed.
-
-## Current Supervising Tutors
-
-- **Lana** (sstepani)
-- **Bertrand** (bertrmar)
-- **Simon** (stempels)
-- **Kevin** (krpist)

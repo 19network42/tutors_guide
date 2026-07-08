@@ -178,7 +178,6 @@ Students may not:
 - Leave during the first hour of the exam (except in case of success) or 2h42 for Phoenixes
 - Use unauthorised devices
 - Disturb other participants
-- Wear caps or hoods
 - Bring any connected devices (phones, smartwatches, headphones, etc.)
 
 Standard campus rules such as no eating, no drinks other than water in enclosed bottles allowed or no bottles on the desk also apply during exams.
